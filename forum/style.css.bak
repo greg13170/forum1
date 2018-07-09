@@ -1,0 +1,27 @@
+
+body {
+background-image: ;
+ font-family: Verdana, sans-serif; 
+ font-size: 100%;
+ }
+
+titre {
+ color:azure  ;
+
+ font-family: fantasy ;
+ font-size: 250%; 
+ 
+ margin-left: ;
+ 
+ 
+}
+
+header {
+    
+    
+	background-image: url("images/footer.jpg");
+    margin-top: 0%;
+	height:300px;
+    
+}
+
